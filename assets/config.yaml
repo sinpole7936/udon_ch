@@ -1,0 +1,8 @@
+backend:
+  mode: skyway #'skyway2023' or 'skyway'
+  url: https://localhost:4200/ #Your Backend API URL
+webrtc: #非推奨（旧SkyWay）
+  key: a1fca66a-0c4d-4cf5-a3d6-fd303419921a #[deprecated] Your (old) SkyWay API key
+app: #未使用
+dice:
+  url: 
